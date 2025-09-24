@@ -37,7 +37,8 @@ Busco integrarme en un entorno profesional desafiante donde pueda aportar y segu
 - **Power BI**: desarrollo de dashboards interactivos para la toma de decisiones.  
 - **.NET (C#)**: optimización y buenas prácticas en el desarrollo de aplicaciones.  
 - **APIs REST**: diseño de endpoints, integración de servicios y manejo de datos en distintos contextos.  
-- **Estadística y probabilidad aplicada**: fundamentos para modelos y algoritmos.  
+- **Estadística y probabilidad aplicada**: fundamentos para modelos y algoritmos.
+- **Conocimientos Docker**: uso y creación de imágenes.
 
 ---
 
