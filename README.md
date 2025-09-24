@@ -5,11 +5,10 @@ Montevideo, Uruguay | [LinkedIn](https://uy.linkedin.com/in/candelaria-blanco-he
 
 ## Perfil Profesional
 Estudiante avanzada de Ingeniería en Sistemas con interés en **Big Data, Data Science, Data Mining y Analítica de Datos**.  
-Poseo experiencia académica en **programación, análisis de datos, desarrollo y consumo de APIs, y visualización en Power BI**.  
 
 Me destaco por mi **pensamiento lógico, resolución de problemas, organización y comunicación efectiva**, cualidades que me permiten adaptarme a entornos dinámicos y colaborar en equipos multidisciplinarios.  
 
-Busco integrarme en un entorno profesional desafiante donde pueda **aportar soluciones basadas en datos y seguir desarrollándome como futura especialista en analítica y ciencia de datos**.  
+Busco integrarme en un entorno profesional desafiante donde pueda aportar y seguir desarrollándome tanto profecional como personalmente.  
 
 ---
 
@@ -31,7 +30,8 @@ Busco integrarme en un entorno profesional desafiante donde pueda **aportar solu
 
 ## Experiencia Académica Relevante  
 
-**Proyectos universitarios destacados en el área de datos y programación:**  
+**Proyectos universitarios destacados en el área de datos y programación:** 
+- **Bases de datos (SQL/MySQL)**: creación y mantenimiento de bases de datos relacionales, consultas SQL y fundamentos teóricos de modelado y normalización. 
 - **Análisis de datos con Python/Jupyter**: limpieza, normalización, visualización y modelado básico de datasets.  
 - **Data Mining**: implementación de algoritmos de clasificación y detección de outliers.  
 - **Power BI**: desarrollo de dashboards interactivos para la toma de decisiones.  
