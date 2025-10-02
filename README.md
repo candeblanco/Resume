@@ -12,6 +12,14 @@ Busco integrarme en un entorno profesional desafiante donde pueda aportar y segu
 
 ---
 
+## Educación  
+- **Ingeniería en Sistemas** (en curso, 32/44 exoneradas) | Universidad ORT Uruguay  
+  – Título intermedio: *Ayudante de Ingeniería en Sistemas* (feb 2024).  
+- **Certificación en Informática Aplicada** | Universidad Católica del Uruguay (UCU).  
+- **ECPE Level (C2 – Proficiency in English)** | University of Michigan.  
+
+---
+
 ## Experiencia Laboral
 
 **Profesor de Inglés** | Liceo San José, Tala | 2021 – 2023  
@@ -47,12 +55,3 @@ Busco integrarme en un entorno profesional desafiante donde pueda aportar y segu
 - **Organización y planificación**: experiencia en comisiones y grupos sin fines de lucro, gestión de eventos y redacción de actas.  
 - **Compromiso social y servicio comunitario**: participación en Interact (Rotary) y Grupo Joven Emaús.  
 - **Emprendeurismo e innovación**: participación en programas de Junior Achievement como *Joven Empresaria y Junior*.  
-
----
-
-## Educación  
-- **Ingeniería en Sistemas** (en curso, 32/44 exoneradas) | Universidad ORT Uruguay  
-  – Título intermedio: *Ayudante de Ingeniería en Sistemas* (feb 2024).  
-- **Certificación en Informática Aplicada** | Universidad Católica del Uruguay (UCU).  
-- **ECPE Level (C2 – Proficiency in English)** | University of Michigan.  
-- **Portugués básico** | Educación personal e informal (capacidad de comprensión y comunicación).  
